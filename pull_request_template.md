@@ -1,22 +1,19 @@
-# Add <WALLET_NAME> wallet
+# Add Fearless wallet
 
 ## Supports
-- [x] JS bridge as a browser extention for [Google Chrome](<chrome store url>), ..., browsers.
-- [ ] JS bridge for the in-wallet browser for [iOS](<appstore link>) and [Android](<google play link>).
-- [ ] JS bridge for in-wallet browser for [Windows](<link>), [macOS](<link>), ... .
-- [x] HTTP bridge as a mobile wallet app for [iOS](<appstore link>) and [Android](<google play link>).
-- [ ] HTTP bridge as a desctop wallet app for [Windows](<link>), [macOS](<link>), ... .
+- [x] JS bridge for the in-wallet browser for [iOS](https://apps.apple.com/us/app/fearless-wallet-defi-wallet/id1537251089) 
+- [x] HTTP bridge as a mobile wallet app for [iOS](https://apps.apple.com/us/app/fearless-wallet-defi-wallet/id1537251089)
 
 ## Supported features
-- [ ] [ton_proof](https://github.com/ton-connect/docs/blob/main/requests-responses.md#address-proof-signature-ton_proof)
+- [x] [ton_proof](https://github.com/ton-connect/docs/blob/main/requests-responses.md#address-proof-signature-ton_proof)
 - [x] [SendTransaction](https://github.com/ton-connect/docs/blob/main/requests-responses.md#methods)
 
 
 ## Tests
-[a demo dapp with integrated wallet](link)
+[Fearless Wallet DEMO App](https://ton-connect.example.fearless.soramitsu.co.jp)
 
 ## Integrator contacts
-* telegram
-* email
-* discord
-* ...
+* telegram: @skyforger79
+* telegram: @alexg6r
+* email: fearless@soramitsu.co.jp
+* email: petrov@soramitsu.co.jp
