@@ -367,6 +367,6 @@
           "key": "Fearless"
        }
     ],
-    "platforms": ["ios"]
+    "platforms": ["ios", "android"]
   }
 ]
